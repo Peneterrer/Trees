@@ -9,7 +9,7 @@
 
 
 <div align="center" style="border-radius: 5px; margin: 20px 0;">
-  <strong>Hey:</strong> This is just an architecture release. If you would like to see this as a framework, let us know (by starring the project) and we would love to do it. 
+  <strong>Hey:</strong> This is just an architecture release. If you would like to see this as a framework, let us know and we would love to do it. 
 </div>
 
 # Trees 🌳
