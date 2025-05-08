@@ -9,7 +9,7 @@
 
 
 <div align="center" style="border-radius: 5px; margin: 20px 0;">
-  <strong>Important:</strong> This is just an architecture release. If you would like to see this as a framework, help us reach 1k stars and we will put the effort to make it a developer friendly, general purpose framework to develop Agentic Systems
+  <strong>Hey:</strong> This is just an architecture release. If you would like to see this as a framework, let us know (by starring the project) and we would love to do it. 
 </div>
 
 # Trees 🌳
